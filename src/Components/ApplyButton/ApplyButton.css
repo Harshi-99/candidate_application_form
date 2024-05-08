@@ -1,0 +1,9 @@
+.apply-button {
+  width: 100%;
+  background-color: rgb(85, 239, 196);
+  color: rgb(0, 0, 0);
+  font-weight: 500;
+  padding: 8px 18px;
+  border: none;
+  border-radius: 5px;
+}
